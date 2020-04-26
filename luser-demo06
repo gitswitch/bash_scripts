@@ -1,8 +1,0 @@
-#!/bin/bash
-
-#this script generates a random password for each user specified on the command line
-
-#display what the user typed on the command line.
-
-echo "you executed this command: ${0}"
-
